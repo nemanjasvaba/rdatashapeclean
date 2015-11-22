@@ -1,0 +1,72 @@
+Variable							Description
+Subject.ID							ID of the subject as a number 1-30
+Activity.Name						ID of the activity as a number 1-6
+Activity.Number						Activity given as a char
+tBodyAcc-mean()-X					mean of body acceleration in X/Y/Z
+tBodyAcc-mean()-Y					
+tBodyAcc-mean()-Z					
+tBodyAcc-std()-X					std of body acceleration in X/Y/Z
+tBodyAcc-std()-Y					
+tBodyAcc-std()-Z					
+tGravityAcc-mean()-X				mean of gravitational acceleration in X/Y/Z
+tGravityAcc-mean()-Y				
+tGravityAcc-mean()-Z				
+tGravityAcc-std()-X					std of gravitational acceleration in X/Y/Z
+tGravityAcc-std()-Y					
+tGravityAcc-std()-Z					
+tBodyAccJerk-mean()-X				mean of body jerk motion acceleration in X/Y/Z
+tBodyAccJerk-mean()-Y				
+tBodyAccJerk-mean()-Z				
+tBodyAccJerk-std()-X				std of body jerk motion acceleration in X/Y/Z
+tBodyAccJerk-std()-Y				
+tBodyAccJerk-std()-Z				
+tBodyGyro-mean()-X					mean of Gyro motion in X/Y/Z
+tBodyGyro-mean()-Y					
+tBodyGyro-mean()-Z					
+tBodyGyro-std()-X					std of Gyro motion in X/Y/Z
+tBodyGyro-std()-Y					
+tBodyGyro-std()-Z					
+tBodyGyroJerk-mean()-X				mean of GyroJerk motion in X/Y/Z
+tBodyGyroJerk-mean()-Y				
+tBodyGyroJerk-mean()-Z				
+tBodyGyroJerk-std()-X				std of GyroJerk motion in X/Y/Z
+tBodyGyroJerk-std()-Y				
+tBodyGyroJerk-std()-Z				
+tBodyAccMag-mean()					mean of Body acceleration magnitude
+tBodyAccMag-std()					std of Body acceleration magnitude
+tGravityAccMag-mean()				mean of Acceleration magnitude
+tGravityAccMag-std()				std of Acceleration magnitude
+tBodyAccJerkMag-mean()				mean of Jerk Acceleration magnitude
+tBodyAccJerkMag-std()				std of Jerk Acceleration magnitude
+tBodyGyroMag-mean()					mean of Gyro magnitude
+tBodyGyroMag-std()					std of Gyro magnitude
+tBodyGyroJerkMag-mean()				mean of GyroJerk magnitude
+tBodyGyroJerkMag-std()				std of GyroJerk magnitude
+fBodyAcc-mean()-X					mean of body acceleration in X/Y/Z
+fBodyAcc-mean()-Y					
+fBodyAcc-mean()-Z					
+fBodyAcc-std()-X					std of body acceleration in X/Y/Z
+fBodyAcc-std()-Y					
+fBodyAcc-std()-Z					
+fBodyAccJerk-mean()-X				mean of body jerk motion acceleration in X/Y/Z
+fBodyAccJerk-mean()-Y				
+fBodyAccJerk-mean()-Z				
+fBodyAccJerk-std()-X				std of body jerk motion acceleration in X/Y/Z
+fBodyAccJerk-std()-Y				
+fBodyAccJerk-std()-Z				
+fBodyGyro-mean()-X					mean of Gyro motion in X/Y/Z
+fBodyGyro-mean()-Y					
+fBodyGyro-mean()-Z					
+fBodyGyro-std()-X					std of GyroJerk motion in X/Y/Z
+fBodyGyro-std()-Y					
+fBodyGyro-std()-Z					
+fBodyAccMag-mean()					mean of Body acceleration magnitude
+fBodyAccMag-std()					std of Body acceleration magnitude
+fBodyBodyAccJerkMag-mean()			mean of Jerk Acceleration magnitude
+fBodyBodyAccJerkMag-std()			std of Jerk Acceleration magnitude
+fBodyBodyGyroMag-mean()				mean of Gyro magnitude
+fBodyBodyGyroMag-std()				std of Gyro magnitude
+fBodyBodyGyroJerkMag-mean()			mean of GyroJerk magnitude
+fBodyBodyGyroJerkMag-std()			std of GyroJerk magnitude
+                                    
+                                    
